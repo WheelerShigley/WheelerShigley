@@ -1,7 +1,7 @@
-Hello, I’m Mason Wheeler-Shigley.
-I study CPU Architecture, Programming, and Logic.
+I've been making too many Minecraft mods! It is time to *diversify*~
+I study CPU Architecture, Programming, and Formal Logic.
 
 I graduated from USM with B.S. in Applied Computer Science (2023).
-I’m currently a Systems Engineer at Midwest Insurence.
+I’m currently an Application Developer at Midwest Insurence.
 
-(Description WIP)
+https://modrinth.com/user/Wheeler-Shigley
