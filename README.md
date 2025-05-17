@@ -1,7 +1,6 @@
-I've been making too many Minecraft mods! It is time to *diversify*~
-I study CPU Architecture, Programming, and Formal Logic.
+# Wheeler-Shigley
+This github holds (mainly) my game-related projects!
+I study CPU Architecture, Software Development, and Formal Logic.
 
-I graduated from USM with B.S. in Applied Computer Science (2023).
-I’m currently an Application Developer at Midwest Insurence.
-
-https://modrinth.com/user/Wheeler-Shigley
+## Socials
+[Modrinth](https://modrinth.com/user/Wheeler-Shigley)
